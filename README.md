@@ -8,5 +8,6 @@ The projects are:
 - PDF manager
 - Web scraping for news
 - Sending SMS
+- API server
 
 More projects will be added.
