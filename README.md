@@ -1,4 +1,4 @@
-# PythonProjects
+# Python Projects
 This repository stands for some Python projects developed to improve my skills and get more knowledge about different tools to work with. 
 
 The projects are:
