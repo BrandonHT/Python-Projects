@@ -9,5 +9,6 @@ The projects are:
 - Web scraping for news
 - Sending SMS
 - Web server
+- Web browsing automation
 
 More projects will be added.
