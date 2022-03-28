@@ -10,6 +10,4 @@ The projects are:
 - Sending SMS
 - Web server
 - Web browsing automation
-- Data science + Machine learning
-
-More projects will be added.
+- Machine learning + Data science
